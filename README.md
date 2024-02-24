@@ -1,15 +1,11 @@
-# CRUD_Application_Node
-In this project, we are going to create node CRUD application with express and mongodb.
+# APP using Node.js, MongoDB & Express.js
 
-#### To Run this project Clone it and install modules using
-```
-npm install
-```
+To use, 
 
-Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
-That's it. You are ready to go. To execute this project just type
-```
-npm start
-```
+please clone or download this 
+and then use,
 
-Enjoy...!
+1) npm install
+2) npm run start
+
+You're good to go
