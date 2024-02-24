@@ -8,9 +8,9 @@ and then use,
 1) npm install
 2) npm run start
 
-   DB Name: crudfunction
-   Collection Name: userdbs
-   View Data: db.userdbs.find()
+   DB Name: crudfunction  \n
+   Collection Name: userdbs  \n
+   View Data: db.userdbs.find() \n
 
 You're good to go
 
